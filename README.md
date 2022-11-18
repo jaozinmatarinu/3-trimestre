@@ -1,7 +1,7 @@
 Colegio: Colegio Estadual João De Faria Pioli
+
+
 aluno: joão Lucas Tessarollo Marino
-prof: Arianne brao 
-materia: Pensamento Computacional
 
 
 
